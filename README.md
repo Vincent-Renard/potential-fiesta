@@ -1,2 +1,8 @@
-# potential-fiesta
-Dépôt du sprint de programmation parallèle 2019.
+# Sprint prog parallele
+
+## Composition du groupe
+  - Romain Guidez
+  - Vincent Renard
+
+## Partie 1
+Nous avons réalisé les fonctions Partitionnement en parallèle et SommePrefixe.
